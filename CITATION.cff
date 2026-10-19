@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Please cite the UCI Heart Disease dataset and TRIPOD+AI guidance when appropriate."
+title: "CodeAlpha Disease Prediction: Heart Disease Classification"
+version: 1.0.0
+date-released: 2026-10-19
